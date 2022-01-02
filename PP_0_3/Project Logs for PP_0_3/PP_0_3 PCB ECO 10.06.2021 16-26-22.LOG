@@ -1,0 +1,66 @@
+Added Component: Designator=KR2(KR_3_0)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=KR3(KR_3_0)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=KR4(KR_3_0)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=KR5(KR_3_0)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=KR6(KR_3_0)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=VD2-2
+Added Pin To Net: NetName=GND Pin=VD3-1
+Added Pin To Net: NetName=GND Pin=VD5-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1 Pin=KR2-0
+Added Pin To Net: NetName=IN1 Pin=KR4-0
+Added Pin To Net: NetName=IN1 Pin=KR6-0
+Added Pin To Net: NetName=IN1 Pin=VD3-2
+Added Pin To Net: NetName=IN1 Pin=VD4-1
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=KR1-0
+Added Pin To Net: NetName=IN2 Pin=KR3-0
+Added Pin To Net: NetName=IN2 Pin=KR5-0
+Added Pin To Net: NetName=IN2 Pin=VD5-2
+Added Pin To Net: NetName=IN2 Pin=VD6-1
+Added Net: Name=IN2
+Added Pin To Net: NetName=OUT1 Pin=C1-1
+Added Pin To Net: NetName=OUT1 Pin=L1-1
+Added Pin To Net: NetName=OUT1 Pin=X1-1
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=C2-2
+Added Pin To Net: NetName=OUT2 Pin=L2-1
+Added Pin To Net: NetName=OUT2 Pin=X2-1
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=C3-1
+Added Pin To Net: NetName=OUT3 Pin=L3-1
+Added Pin To Net: NetName=OUT3 Pin=X3-1
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT_PLUS Pin=F1-1
+Added Pin To Net: NetName=OUT_PLUS Pin=R1-1
+Added Pin To Net: NetName=OUT_PLUS Pin=VD4-2
+Added Pin To Net: NetName=OUT_PLUS Pin=VD6-2
+Added Net: Name=OUT_PLUS
+Added Pin To Net: NetName=VCC Pin=F1-2
+Added Pin To Net: NetName=VCC Pin=L1-2
+Added Pin To Net: NetName=VCC Pin=L2-2
+Added Pin To Net: NetName=VCC Pin=L3-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=VD1-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VD1_A Pin=R1-2
+Added Pin To Net: NetName=VD1_A Pin=VD1-1
+Added Net: Name=VD1_A
+Added Pin To Net: NetName=VD2_A Pin=R2-1
+Added Pin To Net: NetName=VD2_A Pin=VD2-1
+Added Net: Name=VD2_A
+Added Class: Name=PP_0_3
+Added Class: Name=Power
+Change Room Name: Old Name=PP_0_2 New Name=PP_0_3
+Change Room Scope: Old Scope=InComponentClass('PP_0_2') New Scope=InComponentClass('PP_0_3')
